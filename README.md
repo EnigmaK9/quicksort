@@ -1,7 +1,7 @@
-#QuickSort Paralelo en C++ :rocket:
+# QuickSort Paralelo en C++ :rocket:
 Este repositorio contiene una implementación paralela del algoritmo de ordenamiento Quicksort en C++ utilizando la biblioteca OpenMP.
 
-##Características :sparkles:
+## Características :sparkles:
 Implementación paralela del algoritmo Quicksort
 Uso de la biblioteca OpenMP para paralelizar el código
 Partición del arreglo utilizando el valor del pivote
@@ -16,11 +16,11 @@ En el caso de utilizar el compilador de Visual Studio se podria utilizar el sigu
 ```
 cl /EHsc /openmp nombre_archivo.cpp
 ```
-Contribuciones :thumbsup:
+## Contribuciones :thumbsup:
 Todas las contribuciones son bienvenidas, ya sea en forma de reporte de errores, mejoras en el código o documentación. Si deseas contribuir, por favor crea una pull request.
 
-Licencia :page_with_curl:
+## Licencia :page_with_curl:
 Este proyecto se encuentra bajo la licencia MIT. Para más detalles, revisa el archivo LICENSE.
 
-Créditos :heart:
-Este proyecto fue realizado por @enigmak9. ¡Gracias por utilizar este código! :smile:
+## Créditos :heart:
+Este proyecto fue realizado por @EnigmaK9. ¡Gracias por utilizar este código!
